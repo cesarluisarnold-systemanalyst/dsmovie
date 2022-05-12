@@ -1,7 +1,9 @@
+import Pagination from "components/Pagination";
+
 function Listing() {
 
     return (
-            <h1> Pagina da Listagem</h1>
+            <Pagination />
     )
 }
 
