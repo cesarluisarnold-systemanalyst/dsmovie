@@ -16,7 +16,7 @@ public class Score {
 	
 	private Double value;
 
-	private Score() {
+	public Score() {
 			
 	}
 
